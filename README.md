@@ -16,3 +16,6 @@ Within this undertaking, you will immerse yourself in an extensive sales dataset
 - SALES
 - CITY
 - HOUR
+## DASHBOARD 
+<img width="899" alt="Screenshot 2023-12-13 180537" src="https://github.com/marourix/Project-Data-Analysis/assets/153751464/fafb91b0-ddd7-470a-ac7e-1967b955f9d2">
+
